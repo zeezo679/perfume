@@ -44,6 +44,7 @@ html{
 /* large */
 @media (min-width:1200px){
     .container{
+         background-image: url("images/image-product-mobile.jpg");
         width: 1170px;
     }
 }
